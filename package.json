@@ -1,0 +1,42 @@
+{
+  "name": "crm-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.10.0",
+    "chart.js": "^4.5.0",
+    "classnames": "^2.5.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "heroicons": "^2.2.0",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "lucide-react": "^0.524.0",
+    "mongoose": "^8.16.0",
+    "multer": "^2.0.1",
+    "pdfkit": "^0.17.1",
+    "pdfmake": "^0.2.20",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-datepicker": "^8.4.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.22.3"
+  },
+  "devDependencies": {
+    "@types/pdfmake": "^0.2.11",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^3.3.0",
+    "vite": "^7.0.0"
+  }
+}
